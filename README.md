@@ -1,5 +1,5 @@
 # lista_compras
-
+https://github.com/josias13-dutra/lista_compras.git
 A new Flutter project.
 
 ## Getting Started
